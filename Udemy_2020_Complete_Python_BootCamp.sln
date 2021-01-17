@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Udemy_2020_Complete_Python_BootCamp", "Udemy_2020_Complete_Python_BootCamp.pyproj", "{1EC735D6-C95E-466F-8D17-F9064BB8977E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC735D6-C95E-466F-8D17-F9064BB8977E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC735D6-C95E-466F-8D17-F9064BB8977E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F46CA500-B991-43C3-85CA-6C435704C988}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+class Box:
+     def __init__(self):
+         self.length = 3
+         self.height = 9
+         self.breadth = 5
+ 
+obj = Box()To Pro
